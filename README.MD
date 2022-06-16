@@ -9,3 +9,5 @@ modification2
 modification3
 
 notification4
+
+modified multiple files
