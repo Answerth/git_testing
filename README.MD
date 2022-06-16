@@ -1,3 +1,3 @@
-#learning git
+# learning git
 
-let's see how it goes. 
+let's see how it goes!
