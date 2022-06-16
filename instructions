@@ -1,0 +1,17 @@
+so far: 
+Anytime a file is modified, it will not be automatically staged. 
+Thus, I must
+
+git init //if I have not initialized
+
+git status //checks staging status before committing, after changes
+git add . // adds all new and modified files
+OR
+git add <filename>
+
+git commit -m "update for any added files" 
+OR
+git commit -a -m "stages all modified files, this is the description encompassing those changes. Does not add untracked files"
+
+git push origin main
+
